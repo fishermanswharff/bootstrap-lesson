@@ -9,7 +9,7 @@ In this lesson you will:
 * Use predefined Bootstrap styles and markup to create a form
 
 ## Background
-This repository contains all of the bootstrap you'll need for this project. If you wish to procure your own copy, [http://getbootstrap.com/getting-started/](you can find it here). 
+This repository contains all of the bootstrap you'll need for this project. If you wish to procure your own copy, <a href="http://getbootstrap.com">you can find it here.</a>
 
 
-The Bootstrap grid is a 12 column grid, and you can nest columns inside of other columns. [http://getbootstrap.com/css/#grid](link to the grid).
+The Bootstrap grid is a 12 column grid, and you can nest columns inside of other columns. <a href="http://getbootstrap.com/css/#grid">link to the grid</a>
