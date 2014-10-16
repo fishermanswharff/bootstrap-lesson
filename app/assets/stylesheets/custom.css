@@ -7,6 +7,16 @@
     color: #5a5a5a;
   }
 
+  h2.special {
+    font-style: italic;
+    font-family: "Times";
+  }
+
+  button.btn.btn-purple {
+    background-color: #800080;
+    border-color: #800080;
+  }
+
   div.container.spacer {
     margin-bottom: 100px;
   }
