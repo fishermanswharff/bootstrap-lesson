@@ -7,3 +7,5 @@ In this lesson you will:
 * Define the different media query breakpoints (in px)
 * Use predefined Bootstrap styles to style links as buttons
 * Use predefined Bootstrap styles and markup to create a form
+
+The Bootstrap grid is a 12 column layout (Bootstrap Grid)[http://getbootstrap.com/css/#grid]
