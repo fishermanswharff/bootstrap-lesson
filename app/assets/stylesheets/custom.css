@@ -7,7 +7,9 @@
     color: #5a5a5a;
   }
 
-
+  div.container.spacer {
+    margin-bottom: 100px;
+  }
 
   /* CUSTOMIZE THE NAVBAR
   -------------------------------------------------- */
@@ -136,5 +138,8 @@
       margin-top: 120px;
     }
   }
+
+
+
 
 
